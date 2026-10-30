@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Shivank Mavi — developer" width="100%" />
+</p>
+
 <h1 align="center">Hey, I'm Shivank Mavi.</h1>
 
 <p align="center">
@@ -22,14 +26,14 @@ Right now, I’m growing through **Java**, **DSA**, **AI/ML**, **cloud technolog
 
 **Open to learning opportunities, collaborations, and interesting problems to solve.**
 
-## What I’m focused on
+## Selected work
 
-|  |  |
-| --- | --- |
-| **01 / FULL-STACK** | Building complete web applications that connect polished user experiences with solid backend foundations. |
-| **02 / AI + DATA** | Exploring practical AI/ML tools and data-driven features that make software more useful. |
-| **03 / MOBILE** | Learning Flutter to turn ideas into fluid, accessible mobile experiences. |
-| **04 / ENGINEERING FOUNDATIONS** | Strengthening problem-solving with Java, data structures, algorithms, and cloud fundamentals. |
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [**AutoPilot AI**](https://github.com/shivan2310/ai-workflow) | Turns everyday requests into structured workflows, then safely runs verified tools for budgets, task lists, and email drafts. Includes a live dashboard and persistent execution history. | React · TypeScript · FastAPI · Ollama · SQLite |
+| [**ImportSafe**](https://github.com/shivan2310/import_safe) | Helps Indian buyers assess import risks before ordering. Reviews product details, surfaces certification and compliance questions, estimates landed costs, and explains next steps with evidence. | React · TypeScript · FastAPI · Python |
+| [**Nivio**](https://github.com/shivan2310/Saas_start) | A private personal organizer for tasks, expenses, important dates, and a journal encrypted in the browser before it reaches the database. | Next.js · TypeScript · Supabase · Web Crypto |
+| [**QuantumLab**](https://github.com/shivan2310/SIH2026) | An interactive quantum learning lab with a visual circuit builder, in-browser simulator, and live state visualizations to make quantum concepts easier to explore. | React · TypeScript · TanStack · Tailwind |
 
 ## What I build with
 
@@ -54,11 +58,7 @@ Right now, I’m growing through **Java**, **DSA**, **AI/ML**, **cloud technolog
 ## Contribution snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivan2310/shivan2310/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivan2310/shivan2310/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated snake moving through Shivank's contribution graph" src="https://raw.githubusercontent.com/shivan2310/shivan2310/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img alt="Animated snake moving through Shivank's contribution graph" src="https://raw.githubusercontent.com/shivan2310/shivan2310/output/github-contribution-grid-snake.svg?v=1" width="100%" />
 </p>
 
 ---
