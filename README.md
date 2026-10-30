@@ -51,6 +51,16 @@ Right now, I’m growing through **Java**, **DSA**, **AI/ML**, **cloud technolog
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shivan2310&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Shivank's most-used languages" />
 </p>
 
+## Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivan2310/shivan2310/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivan2310/shivan2310/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake moving through Shivank's contribution graph" src="https://raw.githubusercontent.com/shivan2310/shivan2310/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 <p align="center">
